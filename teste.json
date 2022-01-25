@@ -1,0 +1,22 @@
+[
+  {
+  "nome": "Italo",
+  "sobrenome": "Pedroza",
+  "idade": 21,
+  "esta_trabalhando": true,
+  "hobbies": ["escutar música", "dormir"]
+  },
+  {
+    "nome": "José",
+    "sobrenome": "da Silva",
+    "idade": 64,
+    "esta_trabalhando": false,
+    "hobbies": ["escutar música", "tricotar"]
+  },{
+    "nome": "Marina",
+    "sobrenome": "Silva",
+    "idade": 43,
+    "esta_trabalhando": true,
+    "hobbies": ["falar merda", "f1"]
+  }
+]
